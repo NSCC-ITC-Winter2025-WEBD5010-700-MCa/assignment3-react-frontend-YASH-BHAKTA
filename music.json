@@ -1,0 +1,102 @@
+{"music": [
+    {
+        "title": "Animals",
+        "genre": "EDM",
+        "artist": "Martin Garrix",
+        "released_year": 2013,
+        "ratings": {
+          "rym": 2.18,
+          "ranked": 1248
+        }
+    },
+    {
+        "title": "Payal",
+        "genre": "Hip-Hop",
+        "artist": ["Honey Singh", "Paradox"],
+        "released_year": 2024,
+        "ratings": {
+          "rym": 3.33,
+          "ranked": 1052
+        }
+    },
+    {
+        "title": "Bad guy",
+        "genre": "Pop",
+        "artist": "Billie Eilish",
+        "released_year": 2019,
+        "ratings": {
+          "rym": 3.08,
+          "ranked": 700
+        }
+    },
+    {
+        "title": "Lovely",
+        "genre": "Chamber pop",
+        "artist": ["Billie Eilish", "Khalid"],
+        "released_year": 2018,
+        "ratings": {
+          "rym": 3.32,
+          "ranked": 250
+        }
+    },
+    {
+        "title": "Fee Ra Huri",
+        "genre": "Progressive Folk",
+        "artist": "Omnia",
+        "released_year": 2012,
+        "ratings": {
+          "rym": 3.50,
+          "ranked": 1250
+        }
+    },
+    {
+        "title": "Lonely",
+        "genre": ["Pop Soul", "Yodeling"],
+        "artist": ["Justin Bieber", "Benny Blanco"],
+        "released_year": 2020,
+        "ratings": {
+          "rym": 1.81,
+          "ranked": 2234
+        }
+    },
+    {
+        "title": "The night we met",
+        "genre": "Indie Folk",
+        "artist": "Lord Huron",
+        "released_year": 2015,
+        "ratings": {
+          "rym": 3.83,
+          "ranked": 3464
+        }
+    },
+    {
+        "title": "On Your Mind",
+        "genre": "Techno",
+        "artist": "Kaskade",
+        "released_year": 2018,
+        "ratings": {
+          "rym": 2.91,
+          "ranked": 4897
+        }
+    },
+    {
+        "title": "Ilomilo",
+        "genre": "Alternative R&B",
+        "artist": "Billie Eilish",
+        "released_year": 2019,
+        "ratings": {
+          "rym": 3.69,
+          "ranked": 2328
+        }
+    },
+    {
+        "title": "Call out my name",
+        "genre": "Alternative R&B",
+        "artist": "The Weeknd",
+        "released_year": 2018,
+        "ratings": {
+          "rym": 4.05,
+          "ranked": 319
+        }
+    }
+]}
