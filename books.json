@@ -1,100 +1,6 @@
 {
   "books": [
     {
-      "id": "19",
-      "title": "In the Shadow of Giants",
-      "author": "Karen Carter",
-      "published_year": 2018,
-      "genre": "Science Fiction",
-      "isbn": "4292545040727",
-      "ratings": [
-        4,
-        3,
-        1,
-        2,
-        3
-      ],
-      "reviews": [
-        {
-          "user": "Mary Collins",
-          "comment": "This is a review for Nightfall Chronicles.",
-          "rating": 2,
-          "date": "19-1-2023"
-        },
-        {
-          "user": "Betty Young",
-          "comment": "This is a review for Unwritten Stories.",
-          "rating": 5,
-          "date": "25-3-2020"
-        }
-      ],
-      "publisher": {
-        "name": "HarperCollins",
-        "address": {
-          "street": "330 Oak Ave",
-          "city": "New York",
-          "country": "USA"
-        },
-        "contact": {
-          "phone": "+1-455-6736055",
-          "email": "contact@simonandschuster.com"
-        }
-      },
-      "price": {
-        "currency": "GBP",
-        "amount": 46.72
-      }
-    },
-    {
-      "id": "20",
-      "title": "Echoes of the Heart",
-      "author": "Charles Murphy",
-      "published_year": 2011,
-      "genre": "Thriller",
-      "isbn": "3692714018292",
-      "ratings": [
-        5,
-        2,
-        4
-      ],
-      "reviews": [
-        {
-          "user": "Paul White",
-          "comment": "This is a review for Wings of Destiny.",
-          "rating": 5,
-          "date": "19-4-2022"
-        },
-        {
-          "user": "Sarah Johnson",
-          "comment": "This is a review for Rise of the Phoenix.",
-          "rating": 5,
-          "date": "8-4-2023"
-        },
-        {
-          "user": "Michael Brown",
-          "comment": "This is a review for The Great Adventure.",
-          "rating": 3,
-          "date": "11-4-2022"
-        }
-      ],
-      "publisher": {
-        "name": "Macmillan",
-        "address": {
-          "street": "771 Broadway",
-          "city": "New York",
-          "country": "Germany"
-        },
-        "contact": {
-          "phone": "+1-415-7193868",
-          "email": "contact@penguin.com"
-        }
-      },
-      "price": {
-        "currency": "USD",
-        "amount": 15.86
-      }
-    },
-    {
       "id": "21",
       "title": "Secrets of the Forest",
       "author": "Andrew Walker",
@@ -1338,6 +1244,41 @@
         "currency": "USD",
         "amount": 45.86
       }
+    },
+    {
+      "id": "3e79",
+      "title": "muzik",
+      "author": "chodu",
+      "published_year": "1995",
+      "genre": "rock"
+    },
+    {
+      "id": "a1a1",
+      "title": "yadh",
+      "author": "bhaksj",
+      "published_year": "ndlflhb",
+      "genre": "kuejd"
+    },
+    {
+      "id": "2d21",
+      "title": "asas",
+      "author": "asas",
+      "published_year": "asas",
+      "genre": "asas"
+    },
+    {
+      "id": "46d9",
+      "title": "asas",
+      "author": "asas",
+      "published_year": "asas",
+      "genre": "asas"
+    },
+    {
+      "id": "b3b6",
+      "title": "tum ho",
+      "author": "laila",
+      "published_year": "1669",
+      "genre": "peace"
     }
   ]
 }
