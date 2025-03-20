@@ -9,6 +9,7 @@ import {
   faArrowLeft,
   faArrowRight,
   faBook,
+  faCar,
   faMusic
 } from '@fortawesome/free-solid-svg-icons';
 
@@ -45,7 +46,9 @@ const Sidebar = ({ isCollapsed, toggleSidebar }) => {
     { href: '/admin/customers', label: 'Customers', icon: faUsers },
     { href: '/admin/auto-response', label: 'Auto Response', icon: faReply },
     { href: '/admin/subscriptions', label: 'Subscriptions', icon: faBoxOpen },
-    { href: '/admin/books', label: 'Books', icon: faBook }
+    { href: '/admin/books', label: 'Books', icon: faBook },
+    { href: '/admin/cars', label: 'Cars', icon: faCar }
+
   ];
 
   return (
